@@ -1,0 +1,7 @@
+Codigo/*.ipynb filter=lfs diff=lfs merge=lfs -text
+Codigo/chromedriver/chrome-win64.zip filter=lfs diff=lfs merge=lfs -text
+Codigo/chromedriver/chrome-win64/chrome-win64/chrome.dll filter=lfs diff=lfs merge=lfs -text
+Codigo/scrapingColombiaTIC.ipynb filter=lfs diff=lfs merge=lfs -text
+Codigo/scrapingColombiaTICver2.ipynb filter=lfs diff=lfs merge=lfs -text
+*.ipynb filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
