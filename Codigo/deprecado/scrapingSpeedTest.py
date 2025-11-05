@@ -33,3 +33,4 @@ else:
     print("❌ No se encontró ninguna petición con 'countryHistory'.")
 
 driver.quit()
+
