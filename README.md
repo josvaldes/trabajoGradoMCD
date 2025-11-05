@@ -42,6 +42,7 @@ trabajoGradoMCD/
 ├── README.md # Descripción general del proyecto
 ├── .gitignore # Configuración de archivos ignorados
 └── .gitattributes # Metadatos de codificación
+<img width="565" height="299" alt="image" src="https://github.com/user-attachments/assets/1293a925-68d6-42ec-b557-74834d93ce14" />
 
 
 ---
