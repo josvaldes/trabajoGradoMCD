@@ -1,9 +1,0 @@
-*.xlsx
-*.csv
-*.parquet
-
-*.duckdb
-*.zip
-*.parquet
-*.bak
-temp_*
