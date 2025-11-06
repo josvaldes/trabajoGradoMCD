@@ -5,3 +5,9 @@ Codigo/scrapingColombiaTIC.ipynb filter=lfs diff=lfs merge=lfs -text
 Codigo/scrapingColombiaTICver2.ipynb filter=lfs diff=lfs merge=lfs -text
 *.ipynb filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
+
+*.duckdb
+*.zip
+*.parquet
+*.bak
+temp_*
